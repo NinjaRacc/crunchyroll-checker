@@ -3,10 +3,10 @@ quick proxyless crunchyroll checker
 
 ## prequisites
 
-> crunchyroll account list
-> python 3
-> pip
-> brain
+- [ ] CrunchyRoll account list
+- [ ] Python 3
+- [ ] pip
+- [ ] brain 
 
 ## installing
 
