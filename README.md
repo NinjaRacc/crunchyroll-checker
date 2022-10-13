@@ -15,3 +15,8 @@ quick proxyless crunchyroll checker
 ## running
 
 `python main.py`
+
+
+## status
+still working as of october 2022
+(will not be updated once patched)
