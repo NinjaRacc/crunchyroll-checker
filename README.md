@@ -1,6 +1,7 @@
 # crunchyroll-checker
 quick proxyless crunchyroll checker
 
+this project is licensed under GPL v2.0
 ## prequisites
 
 - [ ] CrunchyRoll account list
